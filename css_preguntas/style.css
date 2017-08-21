@@ -1,0 +1,238 @@
+#container-headerp #logo_guias img {
+    padding: 0 !important;
+    margin: -10% 0 2% 0 !important;
+}
+/*body { font-family: Open Sans, Arial, sans-serif; -webkit-font-smoothing: antialiased; margin:0px !important;}*/
+.contenedor {
+	width: 967px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.contenedor-uno {width: 967px; padding-bottom: 50px; height: auto; float: left; padding-top: 10px;}
+.contenedor-dos {width:966px; float:left; height:120px;}
+.contenedor-tres {float: left; width: 200px; height: auto; padding-top:15px;  background: #f6f6f6;  padding-bottom: 20px;}
+.contenedor-cuatro {float: left; width: 740px; height: auto; padding-left: 20px; padding-bottom: 20px; padding-top:9px;}
+/*
+pre, code {
+    font-family: Monaco, Menlo, Consolas, "Courier New", monospace;
+    font-size: 12px;
+    color: #333;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+*/
+a {
+/*color: #333333 !important;*/
+}
+
+/*
+Header Paris
+*/
+#hp {
+	/*width:100%;*/
+	background-image: url(../images/fondoheader.jpg);
+	background-repeat: repeat-x;
+	background-position: center top;
+}
+
+/*
+Resto
+*/
+.bannerppal { width:966px; height:300px;}
+
+.modal-title { font-size:16px !important;}
+
+.col-tit {
+	font-family:Open Sans, sans-serif !important;
+	font-weight:bold !important;
+	font-style:italic !important;
+	letter-spacing:-0.05em !important;
+	line-height:0.8em !important;
+	padding-left: 110px;
+	font-size: 28px;
+	padding-bottom:20px;
+}
+.col-text {
+	font-family:Open Sans, sans-serif !important;
+	line-height:1.3em !important;
+	padding-left: 110px;
+	color: #666666;
+	font-size: 14px;
+	width:180px;
+	margin-bottom:20px;
+}
+.boton {
+	margin-left: 110px;
+	font-size: 14px;
+}
+.boton a {
+	font-family:Open Sans, sans-serif !important;
+	font-weight:bold !important;
+	color: #FFF !important;
+	text-decoration:none !important;
+}
+.btn-primary { color:#09C !important;}
+
+/*
+#footer { height:262px; width:100%; background-color:#EEEEEE; float:left; margin-top:50px;}
+.footer-int { width:966px; height:262px; margin-left:auto; margin-right:auto; }
+*/
+
+/* Tiendas */
+.tienda-contenedor {height:600px;}
+.tienda-foto {float: left; height: 170px; width: auto; padding-top: 10px; padding-right: 30px;}
+.tienda-mapa {float: left; height: 170px; width: auto; padding-top: 10px; padding-right: 30px;}
+.tienda-datos {float: left; height: auto; width: 230px; font-family:Arial, Open Sans, sans-serif; font-size:12px; color:#666; padding-top: 30px;}
+.tienda-resena {float: right; height: auto; width: 492px; font-family:Arial, Open Sans, sans-serif; font-size:12px; color:#666; line-height: 18px; padding-right: 30px; padding-bottom: 10px; padding-top: 25px;}
+.tienda-servicios {float: right; height: auto; width: 492px; font-family:Arial, Open Sans, sans-serif; font-size:12px; color:#666; line-height: 18px; padding-right: 30px; padding-bottom: 10px; padding-top: 25px;}
+.tienda-titulos { color:#09C;}
+.tienda-contenedor-relacionados {float: right; height: auto; width: 492px; font-family:Arial, Open Sans, sans-serif; font-size:12px; color:#666; line-height: 18px; padding-right: 30px; padding-bottom: 10px; padding-top: 25px;}
+.tienda-relacionados {float: left; height: auto; width: 110px; height:54px; border: 1px dotted #CCC; margin-right: 5px;}
+
+/* Comunidad */
+.TopLinks_Cont{
+	width: 280px;
+	height: 25px;
+	float: left;
+	margin-right: 15px;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 15px;
+	color: #333;
+	text-align: center;
+	text-decoration: none;
+	letter-spacing: 0.1em;
+	padding-top: 5px;
+}
+.TopLinks_Cont a{
+	text-decoration:none;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 15px;
+	color: #666;
+		border-bottom: 3px #CCC solid;
+}
+.TopLinks_Cont a:hover{
+	border-bottom: 3px #333 solid;
+	text-decoration: none;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 15px;
+	color: #333;
+}
+.TopLinks_Cont a:actived{
+	text-decoration: none;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 16px;
+	color: #FFF;
+	background-color:#333;
+}
+
+a.hover_vermas_black:link
+{ font-family:Tahoma, Geneva, sans-serif;
+color:#000 !important;
+text-decoration:none;
+cursor:pointer;
+font-size:12px;
+font-weight:bold !important;
+}
+a.hover_vermas_black:visited, a.hover_vermas_black:active
+{ font-family:Tahoma, Geneva, sans-serif;
+color:#000 !important;
+text-decoration:none;
+cursor:pointer;
+font-size:12px;
+}
+a.hover_vermas_black:hover
+{
+	font-family: Tahoma, Geneva, sans-serif;
+	color: #000 !important;
+	text-decoration: underline;
+	cursor: pointer;
+	font-size:12px;
+}
+
+.columnas {width: 300px; float: left; height: 143px;}
+.columnas-guias {width: 300px; float: left; height: 246px;}
+.columnas-catalogos {width: 300px; float: left; height: 246px;}
+.margenarriba { margin-top:30px;}
+.contenedor-con-borde {width: 965px; height: auto; float: left; border: 1px #EEE solid;}
+.contenedor-con-borde-adentro {width: 935px; height: 44px; float: left; padding-top: 20px; padding-left: 30px;}
+.pestana-activa-comunidad {width: 280px; height: 42px; float: left; margin-right: 15px; border-bottom: 5px solid #ff3696; font-family: Tahoma, Geneva, sans-serif; font-size: 16px !important; color: #FFF; text-align: center; letter-spacing: 0.1em; background-color: #333; padding-top: 10px;}
+.pestana-activa-guias {width: 280px; height: 42px; float: left; margin-right: 15px; border-bottom: 5px solid #5ec4ec; font-family: Tahoma, Geneva, sans-serif; font-size: 16px !important; color: #FFF; text-align: center; letter-spacing: 0.1em; background-color: #333; padding-top: 10px;}
+.pestana-activa-catalogos {width: 280px; height: 42px; float: left; margin-right: 15px; border-bottom: 5px solid #F93; font-family: Tahoma, Geneva, sans-serif; font-size: 16px !important; color: #FFF; text-align: center; letter-spacing: 0.1em; background-color: #333; padding-top: 10px;}
+.pestana {
+width: 280px;
+height: 42px;
+float: left;
+margin-right: 15px;
+font-family: Open Sans, Geneva, sans-serif;
+color: #333;
+text-align: center;
+text-decoration: none;
+letter-spacing: 0.1em;
+padding-top: 5px;
+}
+
+.pestana-cien {
+width: 100%;
+height: 42px;
+float: left;
+margin-right: 15px;
+font-family: Tahoma, Geneva, sans-serif;
+color: #333;
+text-align: center;
+text-decoration: none;
+letter-spacing: 0.1em;
+padding-top: 5px;
+}
+
+.pestana a {
+font-size:16px !important;
+height: 35px;
+text-decoration: none !important;
+font-family: Tahoma, Geneva, sans-serif;
+color: #666;
+border-bottom: 3px #CCC solid;
+}
+
+.pestana-noact {
+font-size:16px !important;
+height: 35px;
+text-decoration: none !important;
+font-family: Tahoma, Geneva, sans-serif;
+color: #666;
+border-bottom: 3px #CCC solid;
+}
+
+.pestana a:hover {
+font-size:16px !important;
+height: 35px;
+text-decoration: none !important;
+font-family: Tahoma, Geneva, sans-serif;
+color: #666;
+border-bottom: 3px #333333 solid;
+}
+.bajada {width: 870px; height: auto; float: left; padding-top: 30px; font-family: Tahoma, Geneva, sans-serif; font-size: 14px; color: #333; margin-left: 30px; padding-left: 10px; line-height: 30px; text-align: center;}
+.titulo-bajada {font-weight:bold; color:#ff3696; font-size:16px;}
+.titulo-bajada-guias {font-weight:bold; color:#5ec4ec; font-size:16px;}
+.titulo-bajada-catalogos {font-weight:bold; color:#F93; font-size:16px;}
+.contenedor-columnas {width: 963px; height: auto; float: left; padding-top: 30px; padding-left: 30px; padding-right: 30px; padding-bottom: 20px;}
+.elemento-foto {width: 143px; float: left; height: 143px;}
+.elemento-texto {width: 120px; float: left; height: 143px; font-family: Tahoma, Geneva, sans-serif; padding-left: 10px;}
+.elemento-titulo {color: #333; font-size: 14px; padding-bottom: 10px; font-weight: bold;}
+.elemento-descripcion {color: #666; font-size: 12px; line-height: 16px;}
+.elemento-boton {color: #333; font-size: 12px; line-height: 16px; padding-top: 10px;}
+
+/* :O */
+
+.contenedor-fin{
+  height: 200px;
+  width: 80%;
+  background-color: #666;
+  color: white;
+  float: left;
+  border: 1px solid #green;
+}
+
+.box-category-home{
+  padding: 20px;
+}
